@@ -1,4 +1,4 @@
-# dot-web-samples
+# dot-web-samples | Biometric Authentication
 
 This repository contains integration samples of Innovatrics DOT Web Auto Capture Components in various technologies.
 
