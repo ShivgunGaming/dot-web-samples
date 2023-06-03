@@ -19,3 +19,20 @@ For more information about components integration please read documentation
 [Document Auto Capture Component docs](https://developers.innovatrics.com/digital-onboarding/technical/remote/dot-web-document/latest/documentation/)
 
 [Face Auto Capture Component docs](https://developers.innovatrics.com/digital-onboarding/technical/remote/dot-web-face/latest/documentation/)
+
+# Get Started
+
+To get started, first:
+
+```
+git clone "https://github.com/ShivgunGaming/dot-web-samples.git"
+```
+Then, cd into the sample you want to use, then run:
+
+```
+yarn install
+```
+Then run:
+```
+yarn start
+```
